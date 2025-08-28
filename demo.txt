@@ -2,3 +2,5 @@ this is just for practice
 and now i am changing some things in this file 
 
 understanding git 
+
+created a new branch demo2 and now pushing it non git
